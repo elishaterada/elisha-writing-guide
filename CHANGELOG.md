@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0 — 2026-11-02
+
+- Added a LinkedIn mode for personal lessons, practical judgment, and creative AI problem-solving with actual outcomes and honest limits; preserved organic X guidance.
+- Added platform selection and a shared limit of one optional proactive draft, with silence when no worthwhile moment appears.
+- Kept work-derived suggestions inside the approved work context for explicit review, with no automatic transfer to dot or public posting.
+- Added a short append-only Claude account instruction and updated the optional Claude Code snippet. No account settings, schedules, or permissions were changed.
+
 ## 0.1.1 — 2026-11-02
 
 - Added an ordinary-work trigger to flag worthwhile moments at natural stopping points, with at most one optional short draft and silence otherwise.
