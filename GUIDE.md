@@ -1,6 +1,6 @@
 # Elisha's organic X writing guide
 
-Version: 0.1.0
+Version: 0.1.1
 
 Updated: 2026-11-02
 
@@ -20,9 +20,15 @@ Look in the context Elisha has chosen to share for this task. A moment is worth 
 - An unresolved question Elisha really wants to explore.
 - A failure or friction point that is safe to discuss honestly.
 
-Timeliness helps when the experience is fresh. It is fine for a post to be small or unfinished. Do not force a universal lesson. If there is no worthwhile moment, say so briefly and leave it there. Do not create a daily quota, backlog, or obligation to post.
+Timeliness helps when the experience is fresh. It is fine for a post to be small or unfinished. Do not force a universal lesson. If Elisha explicitly asks for a post and there is no worthwhile moment, say so briefly. During ordinary work, stay silent about posting when there is nothing worth sharing. Do not create a daily quota, backlog, or obligation to post.
 
 Give an unfamiliar product a brief plain-language introduction before assuming followers know its name. Preserve specific tool names when they matter. Verify current claims when needed; distinguish a personal observation from a general claim about a tool.
+
+## Notice moments during ordinary work
+
+At a natural stopping point, such as finishing a task or resolving a decision, consider whether the current conversation contains a genuinely useful finding, tip, tool experiment, or changed decision. Elisha does not need to ask for an X post first. If the moment passes this guide's usefulness and privacy checks, briefly flag it in the conversation and offer at most one optional short draft for review. Otherwise stay silent about posting. Do not interrupt ongoing work, repeat a declined suggestion, or manufacture something to share.
+
+Read the full guide only when considering or drafting such a post, not on every task. This is behavior inside the current conversation, not background monitoring, scanning other conversations, or automatic publishing. Fetching the public guide must not export work details: do not add them to URLs, requests, or public repository files. A work-derived lesson still requires Elisha's review and must not identify clients even indirectly; omit it if confidentiality cannot be preserved.
 
 ## Voice
 
@@ -63,7 +69,7 @@ These are excerpts from Elisha's public X posts, linked for context. They are vo
 
 ## Drafting routine
 
-1. Fetch and read this guide when tools and policy allow. State the version actually read in a short note outside the post. If the fetch fails, admit it; identify any saved version as a snapshot and ask Elisha for the current guide when needed. Never claim a successful refresh or synchronization without evidence.
+1. When first considering or drafting a post in a session, fetch and read this guide when tools and policy allow; refresh again when asked. Do not fetch on every ordinary task. State the version actually read in a short note outside a proposed post. If the fetch fails, admit it; identify any saved version as a snapshot and ask Elisha for the current guide when needed. Never claim a successful refresh or synchronization without evidence.
 2. Use Elisha's real moment and rough wording. Decide whether it has enough substance to share and whether the context belongs in public.
 3. Choose the format, make the smallest useful edit, and check facts and privacy. Prefer one strong draft; offer alternatives when they resolve a real choice or Elisha asks.
 4. Show the draft for review. Keep factual questions or privacy concerns outside the proposed post. Do not add assistant notes, guide metadata, or version numbers to the post itself.

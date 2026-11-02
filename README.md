@@ -2,23 +2,23 @@
 
 A small public reference for helping Elisha write organic X posts with dot or Claude. The voice and editorial rules live in [GUIDE.md](GUIDE.md).
 
-**Current version: 0.1.0 · 2026-11-02**
+**Current version: 0.1.1 · 2026-11-02**
 
 ## Start here
 
-1. Read the [canonical guide](https://raw.githubusercontent.com/elishaterada/elisha-writing-guide/main/GUIDE.md) before a writing session.
+1. At a natural stopping point during ordinary work, notice whether a genuinely useful moment might be worth sharing. Read the [canonical guide](https://raw.githubusercontent.com/elishaterada/elisha-writing-guide/main/GUIDE.md) when considering or drafting a post, rather than on every task.
 2. Bring a real moment or rough wording from the current conversation. Apply the guide with Elisha's current instructions.
 3. Check facts and privacy, then show a draft for Elisha's review. The guide grants no authority to publish, schedule, or send posts.
 
-Use [CLAUDE-SETUP.md](CLAUDE-SETUP.md) for a pasteable instruction and an optional Claude Code snippet. The same fetch-and-version routine works for dot when its available tools permit it.
+Use [CLAUDE-SETUP.md](CLAUDE-SETUP.md) for a pasteable instruction and an optional Claude Code snippet. When warranted, briefly flag the moment and offer at most one optional short draft; otherwise stay silent about posting. Do not interrupt the work or force a quota. This behavior happens inside the current conversation, with no background monitoring or automatic publishing. The same fetch-and-version routine works for dot when its available tools permit it.
 
 ## Latest versus a fixed version
 
 - Latest: <https://raw.githubusercontent.com/elishaterada/elisha-writing-guide/main/GUIDE.md>
-- Version 0.1.0: <https://raw.githubusercontent.com/elishaterada/elisha-writing-guide/v0.1.0/GUIDE.md>
+- Version 0.1.1: <https://raw.githubusercontent.com/elishaterada/elisha-writing-guide/v0.1.1/GUIDE.md>
 - Changes: [CHANGELOG.md](CHANGELOG.md)
 
-Refresh explicitly at the start of a session or when asked. State the version actually read outside the post. A saved copy or attached file is a snapshot; a link alone does not prove it was fetched. This repo does not provide native dot–Claude synchronization or automatic GitHub refresh. Public fetching still depends on the assistant's tools and any employer policy.
+Refresh explicitly when first considering or drafting a post in a session, or when asked. State the version actually read outside the post. A saved copy or attached file is a snapshot; a link alone does not prove it was fetched. This repo does not provide native dot–Claude synchronization or automatic GitHub refresh. Public fetching still depends on the assistant's tools and any employer policy. Fetch only the public guide; do not attach work details to requests or export conversation content.
 
 ## Scope and upkeep
 
